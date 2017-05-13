@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <string name="app_name">风格时钟</string>
+    <string name="tip">这是个桌面插件，请在你的桌面添加这个插件</string>
+    <string name="btn_style">换个风格</string>
+    <string name="btn_setting">更多设置</string>
+
+</resources>

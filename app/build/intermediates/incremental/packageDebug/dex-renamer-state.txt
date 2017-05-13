@@ -1,0 +1,7 @@
+#Wed May 03 22:09:18 CST 2017
+base.0=E\:\\MyTMP\\ArtClock\\app\\build\\intermediates\\transforms\\dex\\debug\\folders\\1000\\10\\instant-run_83cf04402c4d6987d77c421d318d40db93dcc169
+renamed.1=classes2.dex
+renamed.0=classes.dex
+file.1=E\:\\MyTMP\\ArtClock\\app\\build\\intermediates\\transforms\\dex\\debug\\folders\\1000\\10\\instant-run-bootstrap_3b2a02c38217bd632a8fff775507b71f6b065eae\\classes.dex
+base.1=E\:\\MyTMP\\ArtClock\\app\\build\\intermediates\\transforms\\dex\\debug\\folders\\1000\\10\\instant-run-bootstrap_3b2a02c38217bd632a8fff775507b71f6b065eae
+file.0=E\:\\MyTMP\\ArtClock\\app\\build\\intermediates\\transforms\\dex\\debug\\folders\\1000\\10\\instant-run_83cf04402c4d6987d77c421d318d40db93dcc169\\classes.dex

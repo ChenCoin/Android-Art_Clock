@@ -1,0 +1,38 @@
+[
+    {
+        "merged": "E:\\MyTMP\\ArtClock\\app\\build\\intermediates\\res\\merged\\release\\layout\\c_diy1.xml",
+        "source": "E:\\MyTMP\\ArtClock\\app\\src\\main\\res\\layout\\c_diy1.xml"
+    },
+    {
+        "merged": "E:\\MyTMP\\ArtClock\\app\\build\\intermediates\\res\\merged\\release\\layout\\c_samsung1.xml",
+        "source": "E:\\MyTMP\\ArtClock\\app\\src\\main\\res\\layout\\c_samsung1.xml"
+    },
+    {
+        "merged": "E:\\MyTMP\\ArtClock\\app\\build\\intermediates\\res\\merged\\release\\layout\\main.xml",
+        "source": "E:\\MyTMP\\ArtClock\\app\\src\\main\\res\\layout\\main.xml"
+    },
+    {
+        "merged": "E:\\MyTMP\\ArtClock\\app\\build\\intermediates\\res\\merged\\release\\layout\\c_apple.xml",
+        "source": "E:\\MyTMP\\ArtClock\\app\\src\\main\\res\\layout\\c_apple.xml"
+    },
+    {
+        "merged": "E:\\MyTMP\\ArtClock\\app\\build\\intermediates\\res\\merged\\release\\layout\\c_sony2.xml",
+        "source": "E:\\MyTMP\\ArtClock\\app\\src\\main\\res\\layout\\c_sony2.xml"
+    },
+    {
+        "merged": "E:\\MyTMP\\ArtClock\\app\\build\\intermediates\\res\\merged\\release\\layout\\c_xiaomi.xml",
+        "source": "E:\\MyTMP\\ArtClock\\app\\src\\main\\res\\layout\\c_xiaomi.xml"
+    },
+    {
+        "merged": "E:\\MyTMP\\ArtClock\\app\\build\\intermediates\\res\\merged\\release\\layout\\c_sony1.xml",
+        "source": "E:\\MyTMP\\ArtClock\\app\\src\\main\\res\\layout\\c_sony1.xml"
+    },
+    {
+        "merged": "E:\\MyTMP\\ArtClock\\app\\build\\intermediates\\res\\merged\\release\\layout\\c_diy2.xml",
+        "source": "E:\\MyTMP\\ArtClock\\app\\src\\main\\res\\layout\\c_diy2.xml"
+    },
+    {
+        "merged": "E:\\MyTMP\\ArtClock\\app\\build\\intermediates\\res\\merged\\release\\layout\\c_samsung2.xml",
+        "source": "E:\\MyTMP\\ArtClock\\app\\src\\main\\res\\layout\\c_samsung2.xml"
+    }
+]

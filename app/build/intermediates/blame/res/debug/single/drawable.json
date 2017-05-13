@@ -1,0 +1,46 @@
+[
+    {
+        "merged": "E:\\MyTMP\\ArtClock\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\small_hour_hand_black.png",
+        "source": "E:\\MyTMP\\ArtClock\\app\\src\\main\\res\\drawable\\small_hour_hand_black.png"
+    },
+    {
+        "merged": "E:\\MyTMP\\ArtClock\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\small_minute_hand_black.png",
+        "source": "E:\\MyTMP\\ArtClock\\app\\src\\main\\res\\drawable\\small_minute_hand_black.png"
+    },
+    {
+        "merged": "E:\\MyTMP\\ArtClock\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\minute_hand2.png",
+        "source": "E:\\MyTMP\\ArtClock\\app\\src\\main\\res\\drawable\\minute_hand2.png"
+    },
+    {
+        "merged": "E:\\MyTMP\\ArtClock\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\clock.png",
+        "source": "E:\\MyTMP\\ArtClock\\app\\src\\main\\res\\drawable\\clock.png"
+    },
+    {
+        "merged": "E:\\MyTMP\\ArtClock\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\button_main.xml",
+        "source": "E:\\MyTMP\\ArtClock\\app\\src\\main\\res\\drawable\\button_main.xml"
+    },
+    {
+        "merged": "E:\\MyTMP\\ArtClock\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\icon.png",
+        "source": "E:\\MyTMP\\ArtClock\\app\\src\\main\\res\\drawable\\icon.png"
+    },
+    {
+        "merged": "E:\\MyTMP\\ArtClock\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\hour_hand_black.png",
+        "source": "E:\\MyTMP\\ArtClock\\app\\src\\main\\res\\drawable\\hour_hand_black.png"
+    },
+    {
+        "merged": "E:\\MyTMP\\ArtClock\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\minute_hand_black.png",
+        "source": "E:\\MyTMP\\ArtClock\\app\\src\\main\\res\\drawable\\minute_hand_black.png"
+    },
+    {
+        "merged": "E:\\MyTMP\\ArtClock\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\hand_minute.xml",
+        "source": "E:\\MyTMP\\ArtClock\\app\\src\\main\\res\\drawable\\hand_minute.xml"
+    },
+    {
+        "merged": "E:\\MyTMP\\ArtClock\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\button_setting.xml",
+        "source": "E:\\MyTMP\\ArtClock\\app\\src\\main\\res\\drawable\\button_setting.xml"
+    },
+    {
+        "merged": "E:\\MyTMP\\ArtClock\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\p1.webp",
+        "source": "E:\\MyTMP\\ArtClock\\app\\src\\main\\res\\drawable\\p1.webp"
+    }
+]

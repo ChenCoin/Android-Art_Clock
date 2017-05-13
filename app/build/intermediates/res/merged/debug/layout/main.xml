@@ -1,0 +1,39 @@
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:gravity="center"
+    android:orientation="vertical"
+    android:background="@drawable/p1">
+
+
+    <FrameLayout
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:layout_weight="1"
+        android:layout_marginTop="32dp"
+        android:layout_marginBottom="96dp"
+        android:layout_marginLeft="32dp"
+        android:layout_marginRight="32dp"
+        android:id="@+id/show_view">
+
+    </FrameLayout>
+
+    <TextView
+        android:text="@string/tip"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:gravity="center"
+        android:textColor="@android:color/white" />
+
+    <Button
+        android:text="@string/btn_style"
+        android:layout_width="128dp"
+        android:id="@+id/button"
+        android:background="@drawable/button_main"
+        android:layout_height="32dp"
+        android:layout_marginBottom="48dp"
+        android:layout_marginTop="16dp"
+        tools:text="换个样式" />
+
+</LinearLayout>
